@@ -13,4 +13,4 @@ https://github.com/NikanRektz/NikanRektzz.github.io/
 
 And, soon, you can see my customized homepage at:
 
-http://dantnguyen.github.io/
+http://NikanRektz.github.io/
